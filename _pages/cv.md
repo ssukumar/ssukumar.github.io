@@ -30,12 +30,6 @@ Professional experience
   * Answeron Inc., Longmont CO
   * Duties included: Developing and maintaining model code base in python based on state-of-the-art research in neural networks/deep learning and machine learning.
 
-<!-- Publications
-====== -->
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-
 
 <!-- Talks
 ======
