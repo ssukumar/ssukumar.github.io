@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %} [Download CV pdf](http://ssukumar.github.io/files/shruthi_CV.pdf){: .btn .btn--light .btn--large}
+{% include base_path %} [Download CV pdf](http://ssukumar.github.io/files/shruthi_CV.pdf){: .btn .btn-light .btn--large}
 
 Education
 ======
