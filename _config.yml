@@ -11,7 +11,7 @@ title                    : "Shruthi Sukumar"
 title_separator          : "-"
 name                     : &name "Shruthi Sukumar"
 description              : &description "Shruthi's website"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ssukumar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ssukumar/ssukumar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shruthi Sukumar"
-  avatar           : "shruthi.jpg"
+  avatar           : "shruthi.jpeg"
   bio              : "Computer Science Ph.D. Student, Neuromechanics Laboratory"
   location         : "Boulder, Colorado, USA"
   employer         :
