@@ -14,9 +14,9 @@ As a Ph.D. student I am interested in modeling people's decisions, identify fact
 
 ## NEWS
 
-* ** Sept 2020:** Presented my work on [the link between arm reaching effort and decision making during foraging](http://ssukumar.github.io/files/jc_presentation_biomech) at the Biomechanics Journal Club at CU Boulder.
-* ** Aug 2020:** Had great fun volunteering to help tutorial attendees at the [virtual ASB Version Control Tutorial](https://www.ryan-alcantara.com/projects/p90_Github_Tutorial_for_researchers/).
-* ** May 2020: ** Wrapped up TA-ing for undergrad Machine Learning at CU. Thanks to Dr. Kim and all the students for the opportunity.
-* ** Oct 2019: ** Presented my work on foraging and motor control at SFN'19 in Chicago.
-* ** Aug 2019: ** Completed my Ph.D. preliminary exam for computational modelling with a review paper on foraging.
-* ** July 2019: ** Presented preliminary results at RLDM 2019 in Montreal. 
+* **Sept 2020:** Presented my work on [the link between arm reaching effort and decision making during foraging](http://ssukumar.github.io/files/jc_presentation_biomech) at the Biomechanics Journal Club at CU Boulder.
+* **Aug 2020:** Had great fun volunteering to help tutorial attendees at the [virtual ASB Version Control Tutorial](https://www.ryan-alcantara.com/projects/p90_Github_Tutorial_for_researchers/).
+* **May 2020:** Wrapped up TA-ing for undergrad Machine Learning at CU. Thanks to Dr. Kim and all the students for the opportunity.
+* **Oct 2019:** Presented my work on foraging and motor control at SFN'19 in Chicago.
+* **Aug 2019:** Completed my Ph.D. preliminary exam for computational modelling with a review paper on foraging.
+* **July 2019:** Presented preliminary results at RLDM 2019 in Montreal. 
