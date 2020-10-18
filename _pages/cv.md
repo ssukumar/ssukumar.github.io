@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV ([download pdf](http://ssukumar.github.io/files/shruthi_CV.pdf))"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-<!-- {% include base_path %} [Download CV pdf](http://ssukumar.github.io/files/shruthi_CV.pdf){: .btn .btn--primary .btn--large} -->
+{% include base_path %} [Download CV pdf](http://ssukumar.github.io/files/shruthi_CV.pdf){: .btn .btn--light .btn--large}
 
 Education
 ======
