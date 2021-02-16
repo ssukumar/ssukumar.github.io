@@ -19,6 +19,8 @@ As a Ph.D. student I am interested in modeling people's decisions, identifying f
 
 ## NEWS
 
+* **Nov 2020:** Presented my foraging and movement work at MLMC'20! [(video link)](https://youtu.be/neCyO5tN754?t=2509). Also checkout the other talks in the link to learn more about exciting motor control research!
+* **Oct 2020:** Our work on the link between motor vigor and decision making has also been accepted for a presentation at this year's (virtual) [Motor Learning and Motor Control symposium](http://www.motor-conference.org/openconf.php)!
 * **Sept 2020:** Presented my work on [the link between arm reaching effort and decision making during foraging](http://ssukumar.github.io/files/jc_presentation_biomech.pptx) at the Biomechanics Journal Club at CU Boulder.
 * **Aug 2020:** Had fun helping attendees with git at the [virtual ASB Version Control Tutorial](https://www.ryan-alcantara.com/projects/p90_Github_Tutorial_for_researchers/) organized by Ryan Alcantara, Gary Bruening and Ross Wilkinson.
 * **May 2020:** Wrapped up TA-ing for undergrad Machine Learning at CU. Thanks to Dr. Kim and all the students for the opportunity.
