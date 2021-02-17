@@ -18,6 +18,12 @@ Education
 Professional experience
 ======
 
+*Industry:*
+* Data Modelling Engineer - Summer Intern, Summer '15, '16 & '17'
+  * Answeron Inc., Longmont CO
+  * Duties included: Developing and maintaining model code base in python based on state-of-the-art research in neural networks/deep learning and machine learning.
+
+*Academia:*
 * Graduate Research Assistant: Fall 2017 - present
   * Neuromechanics Laboratory, University of Colorado Boulder
   * Supervisor: Dr. Alaa A. Ahmed
@@ -25,11 +31,6 @@ Professional experience
 * Graduate Research Assistant: Spring 2015 - Spring 2017   
   * Computational Modelling of Human and Machine Intelligence Laboratory (Mozerlab), University of Colorado Boulder
   * Supervisor: Dr. Michael C. Mozer
-
-* Data Modelling Engineer - Summer Intern, Summer '15, '16 & '17'
-  * Answeron Inc., Longmont CO
-  * Duties included: Developing and maintaining model code base in python based on state-of-the-art research in neural networks/deep learning and machine learning.
-
 
 <!-- Talks
 ======
