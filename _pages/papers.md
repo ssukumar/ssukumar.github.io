@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-## Articles:
+## Articles
 
 1. **Effect of reward and effort on the opportunity cost of time and movement vigor**(2021)\
  __Shruthi Sukumar__, Reza Shadmehr, Alaa A. Ahmed\
