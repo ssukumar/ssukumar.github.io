@@ -34,7 +34,8 @@ Professional experience
 
 Skills:
 ======
-**Languages:** Python, R, Matlab, Javascript, Tcl/Tk, LaTex
+
+**Languages:** Python, R, Matlab, Javascript, Tcl/Tk, LaTex\
 **Other:** Experiment Design, Git
 
 Teaching
@@ -50,5 +51,6 @@ Teaching
 
 Service and leadership
 ======
+
 * Graduate Peer Mentor, University of Colorado Boulder, Graduate School (2020--21)
 * Signer, South Asian Music Association, University of Colorado Boulder (2017--20)
