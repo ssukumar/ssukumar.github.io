@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %} [Download CV pdf](http://ssukumar.github.io/files/shruthi_CV.pdf){: .btn .btn-light .btn--large}
+{% include base_path %} [Download as pdf](http://ssukumar.github.io/files/shruthi_CV.pdf)
 
 Education
 ======
@@ -32,18 +32,23 @@ Professional experience
   * Computational Modelling of Human and Machine Intelligence Laboratory (Mozerlab), University of Colorado Boulder
   * Supervisor: Dr. Michael C. Mozer
 
-<!-- Talks
+Skills:
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul> -->
+**Languages:** Python, R, Matlab, Javascript, Tcl/Tk, LaTex
+**Other:** Experiment Design, Git
 
-<!-- Teaching
+Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 
-<!-- Service and leadership
+  * Teaching Assistant, Spring 2020: [CSCI4622 - Undergraduate Machine Learning](https://github.com/libphy/CSCI4622-20SP-MachineLearning)
+    * Lecturer: Dr. Geena Kim
+    * Tasks: Select homework questions, conduct hands-on in class activities, decide on projects for biweekly Kaggle competitions
+
+  * Grader, Fall 2014: ECEN 3300 - Undergraduate Linear Systems (Electrical Engineering)
+    * Lecturer: Dr. Youjian Liu
+
+
+Service and leadership
 ======
-* Currently signed in to 43 different slack teams -->
+* Graduate Peer Mentor, University of Colorado Boulder, Graduate School (2020--21)
+* Signer, South Asian Music Association, University of Colorado Boulder (2017--20)
