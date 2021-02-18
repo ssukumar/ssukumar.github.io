@@ -52,5 +52,6 @@ Teaching
 Service and leadership
 ======
 
+* Mentor, Discovery Learning Apprenticeship program Fall 2020--Spring 2021
 * Graduate Peer Mentor, University of Colorado Boulder, Graduate School (2020--21)
 * Signer, South Asian Music Association, University of Colorado Boulder (2017--20)

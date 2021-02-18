@@ -29,8 +29,8 @@ Current Biology Dispatch; doi:  -->
 __Shruthi Sukumar__, Reza Shadmehr, Alaa A. Ahmed\
 For *Reinforcement Learning and Decision Making (RLDM) 2019*
 
-5. **Overcoming Temptation: Incentive Design for Intertemporal Choice** (Extended Abstract) [(pdf)](http://ssukumar.github.io/files/rldm_2017.pdf)
-Michael C. Mozer, Shruthi Sukumar, Camden Elliot-Williams, Adrian F. Ward, Shabnam Hakimi\
+5. **Overcoming Temptation: Incentive Design for Intertemporal Choice** (Extended Abstract) [(pdf)](http://ssukumar.github.io/files/rldm_2017.pdf)\
+Michael C. Mozer, __Shruthi Sukumar__, Camden Elliot-Williams, Adrian F. Ward, Shabnam Hakimi\
 For *Reinforcement Learning and Decision Making (RLDM) 2017*
 
 
