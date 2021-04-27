@@ -4,36 +4,16 @@ title: ""
 permalink: /papers/
 author_profile: true
 ---
-
 ## Articles
+* __Sukumar S__, Shadmehr R, Ahmed AA (2021) Effect of reward and effort on the opportunity cost of time and movement vigor, *In Preparation*
 
-* **Effect of reward and effort on the opportunity cost of time and movement vigor** (2021)\
- __Shruthi Sukumar__, Reza Shadmehr, Alaa A. Ahmed\
-*In Preparation*
+* __Sukumar S__, Elliot-Williams C, Hakimi S, Ward AF,  Mozer MC (2021) Overcoming Temptation: Incentive Design for Intertemporal Choice, *In Preparation*
 
-* **Overcoming Temptation: Incentive Design for Intertemporal Choice** (2021)\
- __Shruthi Sukumar__, Camden Elliot-Williams, Shabnam Hakimi, Adrian F. Ward, Michael C. Mozer\
-*In Preparation*
+* __Sukumar S__, Ahmed AA (2021) [Walking: How visual exploration informs step choice](http://ssukumar.github.io/files/CB_dispatch_Sukumar_Ahmed) in Current Biology 31(8), R376-R378
 
-* **Walking: How visual exploration informs step choice** (2021)\
-*Shruthi Sukumar*, Alaa A. Ahmed\
-Current Biology Dispatch; _In Press_
+* __Sukumar S__, Shadmehr R, Ahmed AA (2020) [Effort expenditure links control of vigor with decision-making](http://ssukumar.github.io/files/MLMC_abstract_final.pdf) in Motor Learning and Motor Control Symposium (MLMC) (Extended Abstract; <25% Acceptance Rate)
 
-* **Effort expenditure links control of vigor with decision-making** (Extended Abstract; <25% Acceptance Rate) [(pdf)](http://ssukumar.github.io/files/MLMC_abstract_final.pdf)\
- __Shruthi Sukumar__, Reza Shadmehr, Alaa A. Ahmed\
- For the *Motor Learning and Motor Control Symposium (MLMC) 2020*
-
- * **Overcoming Temptation: Incentive Design for Intertemporal Choice** (Extended Abstract accepted for podium; <25% Acceptance Rate) [(pdf)](http://ssukumar.github.io/files/rldm_2017.pdf)\
- Michael C. Mozer, __Shruthi Sukumar__, Camden Elliot-Williams, Adrian F. Ward, Shabnam Hakimi\
- For *Reinforcement Learning and Decision Making (RLDM) 2017*
-
-* **Effect of travel effort on movement vigor during foraging** (Extended Abstract) [(pdf)](http://ssukumar.github.io/files/rldm_abstract.pdf)\
-__Shruthi Sukumar__, Reza Shadmehr, Alaa A. Ahmed\
-For *Reinforcement Learning and Decision Making (RLDM) 2019*
-
-
-
+* Mozer MC, __Sukumar S__, Elliot-Williams C, Ward AF, Hakimi S (2017) [Overcoming Temptation: Incentive Design for Intertemporal Choice](http://ssukumar.github.io/files/rldm_2017.pdf) in Reinforcement Learning and Decision Making; (Extended Abstract accepted for podium; <25% Acceptance Rate)
 
 ## Theses:
-
-* **Analysis and Solution Of Markov Decision Problems With A Continuous, Stochastic State Component** M.S. Thesis (2017), Electrical Engineering, University of Colorado Boulder [(pdf)](http://ssukumar.github.io/files/MS_thesis.pdf)
+* Sukumar S (2017) [Analysis and Solution Of Markov Decision Problems With A Continuous, Stochastic State Component](http://ssukumar.github.io/files/MS_thesis.pdf) M.S. Thesis , Electrical Engineering, University of Colorado Boulder
