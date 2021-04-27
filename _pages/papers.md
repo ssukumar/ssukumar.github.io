@@ -9,7 +9,7 @@ author_profile: true
 
 * __Sukumar S__, Elliot-Williams C, Hakimi S, Ward AF,  Mozer MC (2021) Overcoming Temptation: Incentive Design for Intertemporal Choice, *In Preparation*
 
-* __Sukumar S__, Ahmed AA (2021) [Walking: How visual exploration informs step choice](http://ssukumar.github.io/files/CB_dispatch_Sukumar_Ahmed) in Current Biology 31(8), R376-R378
+* __Sukumar S__, Ahmed AA (2021) [Walking: How visual exploration informs step choice](http://ssukumar.github.io/files/CB_dispatch_Sukumar_Ahmed.pdf) in Current Biology 31(8), R376-R378
 
 * __Sukumar S__, Shadmehr R, Ahmed AA (2020) [Effort expenditure links control of vigor with decision-making](http://ssukumar.github.io/files/MLMC_abstract_final.pdf) in Motor Learning and Motor Control Symposium (MLMC) (Extended Abstract; <25% Acceptance Rate)
 
